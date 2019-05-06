@@ -1,3 +1,5 @@
+Please check the repository for new mobile app: https://github.com/bitshares/bitshares-mobile-app
+
 **ATTENTION:**:
 
 This code base is **unmaintained** and **not audited**! Use at your own risk!

@@ -1,4 +1,4 @@
-Please check the repository for new mobile app: https://github.com/bitshares/bitshares-mobile-app
+Please check the repository of new mobile app: https://github.com/bitshares/bitshares-mobile-app
 
 **ATTENTION:**:
 
